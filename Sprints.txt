@@ -6,3 +6,20 @@ Sprint 1:
         OKQuestionar data (Oferecer data de ontem por padrão)
         OK Pegar Pegar todas as ocorrências daquela data
         OK MOntar e exibir formulários com totalização em UserForm
+
+Falhas / Correções:
+ - Liberar TXT para alteração de texto. Útil quando o usuário precisa corrigir rápido e utilizará a janelinha para Copy/Paste
+
+Sprint 2:
+    Hitórioa:
+        Eu, como usuário da plailha, quero uma formulário rápido para adição de novo item.
+        Tarefas:
+            - Criar formulário com os campos: 
+                Data - Data de Hoje: Bloqueado
+                Hora de Início - (Inteligência: Se primeri do dia. HOrá libre, se adicionado 
+                Hora de fim
+                Campo de tarefa (A princípio Livre)
+                Descrição
+            
+ 
+ 
