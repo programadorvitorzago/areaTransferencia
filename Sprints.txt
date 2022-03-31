@@ -1,0 +1,8 @@
+Sprint 1:
+ - História:
+    Permitir botão para exibição de relatório separado por história
+    Tarefas:
+        OK Criar o botão
+        OKQuestionar data (Oferecer data de ontem por padrão)
+        OK Pegar Pegar todas as ocorrências daquela data
+        OK MOntar e exibir formulários com totalização em UserForm
